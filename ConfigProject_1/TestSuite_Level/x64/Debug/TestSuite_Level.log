@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Fanshawe\Semester_1\Projects\Configuration_&_Development\ConfigProject_1\TestSuite_Level\main.cpp(97,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  TestSuite_Level.vcxproj -> D:\Fanshawe\Semester_1\Projects\Configuration_&_Development\ConfigProject_1\x64\Debug\TestSuite_Level.exe

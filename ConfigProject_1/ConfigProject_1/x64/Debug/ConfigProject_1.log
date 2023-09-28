@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConfigProject_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\Fanshawe\Semester_1\Projects\Configuration_&_Development\ConfigProject_1\DynamicLib_Player\DynamicLib_Player.h(25,14): warning C4251: 'cDynamicLib_Player::player': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'cDynamicLib_Player'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5119,29): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+     Creating library D:\Fanshawe\Semester_1\Projects\Configuration_&_Development\ConfigProject_1\x64\Debug\TestSuite_Integration.lib and object D:\Fanshawe\Semester_1\Projects\Configuration_&_Development\ConfigProject_1\x64\Debug\TestSuite_Integration.exp
+  ConfigProject_1.vcxproj -> D:\Fanshawe\Semester_1\Projects\Configuration_&_Development\ConfigProject_1\x64\Debug\TestSuite_Integration.exe
